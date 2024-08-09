@@ -4,7 +4,7 @@ Stress detection with Slovak dataset using different speech features. In this pa
 
 ## Usage
 
-Four Jupyter Notebook files are provided. Each file presents a step-by-step procedure for extracting MFCC, PLP, TRILL, and vector features and training the model. 
+Four Jupyter Notebook files are provided. Each file presents a step-by-step procedure for extracting MFCC, PLP, TRILL, and X-vector features and training the model. 
 
 ## Citation
 
